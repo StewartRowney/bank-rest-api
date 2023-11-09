@@ -13,8 +13,6 @@ We will need the following classes
 Account will have 3 sub classes:
 	SavingsAccount
 	CheckingAccount
-	CDAccount
-		CD accounts have a specified term
   
 Loan will have 3 sub classes
 	HomeLoan (aka mortgage)
